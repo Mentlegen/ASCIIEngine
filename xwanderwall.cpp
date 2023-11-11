@@ -9,7 +9,11 @@ using namespace std;
 // Example program to demonstrate the usage of the engine.
 // 
 // Move your character through a maze with the arrow keys.
-// He cannot pass through the walls, however he can pick up objects.
+// He cannot pass through the walls.
+//
+// This is an extremely simple demonstration project which
+// I mostly use just to test the engine, and oh boy there
+// are so many things I have to fix
 //
 // Press ESC to prompt the user to quit.
 struct WanderwallGame {
